@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.btcsignal.app",
+    "sha256_cert_fingerprints": ["1A:7A:EC:FF:EE:09:1E:46:51:9D:35:E8:C2:93:24:AD:3F:A8:F3:3E:BA:55:0A:34:01:42:16:FE:6E:1F:F7:8D"]
+  }
+}]
